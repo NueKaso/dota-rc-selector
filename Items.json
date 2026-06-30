@@ -1,0 +1,404 @@
+[
+  {
+    "tag": "tpscroll",
+    "name": "Town Portal Scroll",
+    "cost": "50",
+    "category": "Consumables"
+  },
+  {
+    "tag": "clarity",
+    "name": "Clarity",
+    "cost": "50",
+    "category": "Consumables"
+  },
+  {
+    "tag": "faerie_fire",
+    "name": "Faerie Fire",
+    "cost": "70",
+    "category": "Consumables"
+  },
+  {
+    "tag": "smoke_of_deceit",
+    "name": "Smoke of Deceit",
+    "cost": "80",
+    "category": "Consumables"
+  },
+  {
+    "tag": "ward_observer",
+    "name": "Observer Ward",
+    "cost": "50",
+    "category": "Consumables"
+  },
+  {
+    "tag": "ward_sentry",
+    "name": "Sentry Ward",
+    "cost": "75",
+    "category": "Consumables"
+  },
+  {
+    "tag": "enchanted_mango",
+    "name": "Enchanted Mango",
+    "cost": "70",
+    "category": "Consumables"
+  },
+  {
+    "tag": "flask",
+    "name": "Healing Salve",
+    "cost": "110",
+    "category": "Consumables"
+  },
+  {
+    "tag": "tango",
+    "name": "Tango",
+    "cost": "90",
+    "category": "Consumables"
+  },
+  {
+    "tag": "tome_of_knowledge",
+    "name": "Tome of Knowledge",
+    "cost": "150",
+    "category": "Consumables"
+  },
+  {
+    "tag": "dust",
+    "name": "Dust of Appearance",
+    "cost": "180",
+    "category": "Consumables"
+  },
+  {
+    "tag": "courier",
+    "name": "Animal Courier",
+    "cost": "50",
+    "category": "Consumables"
+  },
+  {
+    "tag": "bottle",
+    "name": "Bottle",
+    "cost": "650",
+    "category": "Consumables"
+  },
+  {
+    "tag": "branches",
+    "name": "Iron Branch",
+    "cost": "50",
+    "category": "Attributes"
+  },
+  {
+    "tag": "gauntlets",
+    "name": "Gauntlets of Strength",
+    "cost": "135",
+    "category": "Attributes"
+  },
+  {
+    "tag": "slippers",
+    "name": "Slippers of Agility",
+    "cost": "135",
+    "category": "Attributes"
+  },
+  {
+    "tag": "mantle",
+    "name": "Mantle of Intelligence",
+    "cost": "135",
+    "category": "Attributes"
+  },
+  {
+    "tag": "circlet",
+    "name": "Circlet",
+    "cost": "165",
+    "category": "Attributes"
+  },
+  {
+    "tag": "belt_of_strength",
+    "name": "Belt of Strength",
+    "cost": "450",
+    "category": "Attributes"
+  },
+  {
+    "tag": "boots_of_elves",
+    "name": "Band of Elvenskin",
+    "cost": "450",
+    "category": "Attributes"
+  },
+  {
+    "tag": "robe",
+    "name": "Robe of the Magi",
+    "cost": "450",
+    "category": "Attributes"
+  },
+  {
+    "tag": "crown",
+    "name": "Crown",
+    "cost": "450",
+    "category": "Attributes"
+  },
+  {
+    "tag": "ogre_axe",
+    "name": "Ogre Axe",
+    "cost": "1000",
+    "category": "Attributes"
+  },
+  {
+    "tag": "blade_of_alacrity",
+    "name": "Blade of Alacrity",
+    "cost": "1000",
+    "category": "Attributes"
+  },
+  {
+    "tag": "staff_of_wizardry",
+    "name": "Staff of Wizardry",
+    "cost": "1000",
+    "category": "Attributes"
+  },
+  {
+    "tag": "ring_of_protection",
+    "name": "Ring of Protection",
+    "cost": "175",
+    "category": "Armaments"
+  },
+  {
+    "tag": "stout_shield",
+    "name": "Stout Shield",
+    "cost": "200",
+    "category": "Armaments"
+  },
+  {
+    "tag": "quelling_blade",
+    "name": "Quelling Blade",
+    "cost": "200",
+    "category": "Armaments"
+  },
+  {
+    "tag": "infused_raindrop",
+    "name": "Infused Raindrops",
+    "cost": "225",
+    "category": "Armaments"
+  },
+  {
+    "tag": "orb_of_venom",
+    "name": "Orb of Venom",
+    "cost": "275",
+    "category": "Armaments"
+  },
+  {
+    "tag": "blight_stone",
+    "name": "Blight Stone",
+    "cost": "300",
+    "category": "Armaments"
+  },
+  {
+    "tag": "blades_of_attack",
+    "name": "Blades of Attack",
+    "cost": "430",
+    "category": "Armaments"
+  },
+  {
+    "tag": "chainmail",
+    "name": "Chainmail",
+    "cost": "550",
+    "category": "Armaments"
+  },
+  {
+    "tag": "quarterstaff",
+    "name": "Quarterstaff",
+    "cost": "875",
+    "category": "Armaments"
+  },
+  {
+    "tag": "helm_of_iron_will",
+    "name": "Helm of Iron Will",
+    "cost": "900",
+    "category": "Armaments"
+  },
+  {
+    "tag": "javelin",
+    "name": "Javelin",
+    "cost": "1100",
+    "category": "Armaments"
+  },
+  {
+    "tag": "broadsword",
+    "name": "Broadsword",
+    "cost": "1200",
+    "category": "Armaments"
+  },
+  {
+    "tag": "claymore",
+    "name": "Claymore",
+    "cost": "1400",
+    "category": "Armaments"
+  },
+  {
+    "tag": "mithril_hammer",
+    "name": "Mithril Hammer",
+    "cost": "1600",
+    "category": "Armaments"
+  },
+  {
+    "tag": "magic_stick",
+    "name": "Magic Stick",
+    "cost": "200",
+    "category": "Arcane"
+  },
+  {
+    "tag": "wind_lace",
+    "name": "Wind Lace",
+    "cost": "250",
+    "category": "Arcane"
+  },
+  {
+    "tag": "ring_of_regen",
+    "name": "Ring of Regen",
+    "cost": "300",
+    "category": "Arcane"
+  },
+  {
+    "tag": "sobi_mask",
+    "name": "Sage's Mask",
+    "cost": "325",
+    "category": "Arcane"
+  },
+  {
+    "tag": "boots",
+    "name": "Boots of Speed",
+    "cost": "500",
+    "category": "Arcane"
+  },
+  {
+    "tag": "gloves",
+    "name": "Gloves of Haste",
+    "cost": "500",
+    "category": "Arcane"
+  },
+  {
+    "tag": "cloak",
+    "name": "Cloak",
+    "cost": "550",
+    "category": "Arcane"
+  },
+  {
+    "tag": "ring_of_rarrasque",
+    "name": "Ring of Tarrasque",
+    "cost": "700",
+    "category": "Arcane"
+  },
+  {
+    "tag": "ring_of_health",
+    "name": "Ring of Health",
+    "cost": "850",
+    "category": "Arcane"
+  },
+  {
+    "tag": "void_stone",
+    "name": "Void Stone",
+    "cost": "850",
+    "category": "Arcane"
+  },
+  {
+    "tag": "gem",
+    "name": "Gem of True Sight",
+    "cost": "900",
+    "category": "Arcane"
+  },
+  {
+    "tag": "lifesteal",
+    "name": "Morbid Mask",
+    "cost": "900",
+    "category": "Arcane"
+  },
+  {
+    "tag": "shadow_amulet",
+    "name": "Shadow Amulet",
+    "cost": "1400",
+    "category": "Arcane"
+  },
+  {
+    "tag": "ghost",
+    "name": "Ghost Scepter",
+    "cost": "1500",
+    "category": "Arcane"
+  },
+  {
+    "tag": "blink",
+    "name": "Blink Dagger",
+    "cost": "2250",
+    "category": "Arcane"
+  },
+  {
+    "tag": "magic_wand",
+    "name": "Magic Wand",
+    "cost": "450",
+    "category": "Common"
+  },
+  {
+    "tag": "null_talisman",
+    "name": "Null Talisman",
+    "cost": "515",
+    "category": "Common"
+  },
+  {
+    "tag": "wraith_band",
+    "name": "Wraith Band",
+    "cost": "515",
+    "category": "Common"
+  },
+  {
+    "tag": "bracer",
+    "name": "Bracer",
+    "cost": "515",
+    "category": "Common"
+  },
+  {
+    "tag": "soul_ring",
+    "name": "Soul Ring",
+    "cost": "770",
+    "category": "Common"
+  },
+  {
+    "tag": "phase_boots",
+    "name": "Phase Boots",
+    "cost": "1480",
+    "category": "Common"
+  },
+  {
+    "tag": "power_treads",
+    "name": "Power Treads",
+    "cost": "1450",
+    "category": "Common"
+  },
+  {
+    "tag": "oblivion_staff",
+    "name": "Oblivion Staff",
+    "cost": "1650",
+    "category": "Common"
+  },
+  {
+    "tag": "pers",
+    "name": "Perseverance",
+    "cost": "1700",
+    "category": "Common"
+  },
+  {
+    "tag": "hand_of_midas",
+    "name": "Hand of Midas",
+    "cost": "2250",
+    "category": "Common"
+  },
+  {
+    "tag": "travel_boots",
+    "name": "Boots of Travel",
+    "cost": "2500",
+    "category": "Common"
+  },
+  {
+    "tag": "moon_shard",
+    "name": "Moon Shard",
+    "cost": "4000",
+    "category": "Common"
+  },
+  {
+    "tag": "ring_of_basilius",
+    "name": "Ring of Basilius",
+    "cost": "500",
+    "category": "Support"
+  }
+]
