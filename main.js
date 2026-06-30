@@ -70,7 +70,7 @@ client.on('messageCreate', async (message) => {
   };
 
   if (message.content.toLowerCase() === 'дота') {
-    const server = client.guilds.cache.get(message.guild.id); // Replace with your server ID
+    const server = client.guilds.cache.get(message.guild.id); // Ид сервера если надр
 
     try {
 
@@ -94,7 +94,7 @@ client.on('messageCreate', async (message) => {
       if (photo)   {
         attachments.push(photo)
       }
-      message.reply({ content: ' Выбирай: ' + Charname + ', по сценарию: ' + rScenario + ',  Твои предметы на старте: ' + Ritem,
+      message.reply({ content: ' Выбирай: ' + Charname + ', по сценарию: ' + rScenario + ',  предметы которые ты можешь собрать: ' + Ritem,
         files: attachments,
         
       })
