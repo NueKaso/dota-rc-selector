@@ -33,7 +33,7 @@ client.once('clientReady', () => {
 function imgCheker(Name) {
   const charPhoto = cardFiles.find(file => file.toLowerCase().includes(Name.toLowerCase()) )
   if (charPhoto) {
-    const pPhto = path.join(cardFiles, charPhoto)
+    const pPhto = path.join(cardsPath, charPhoto)
     return new AttachmentBuilder(pPhto)
   } else {
     console.log("Error")
