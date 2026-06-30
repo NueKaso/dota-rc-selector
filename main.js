@@ -94,7 +94,7 @@ client.on('messageCreate', async (message) => {
       if (photo)   {
         attachments.push(photo)
       }
-      message.reply({ content: ' Выбирай: ' + Charname + ', по сценарию: ' + rScenario + ',  предметы которые ты можешь собрать: ' + Ritem,
+      message.reply({ content: ' Выбирай: ' + Charname + ', по сценарию: ' + rScenario + ',  артефакты которые ты можешь собрать: ' + Ritem,
         files: attachments,
         
       })
